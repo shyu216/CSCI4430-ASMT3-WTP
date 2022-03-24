@@ -224,5 +224,3 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ## Acknowledgements
 This programming assignment is based on University of Michigan's Assignment 3 from EECS 489: Computer Networks and UC Berkeley's Project 2 from EE 122: Introduction to Communication Networks.
-#   c s c i 4 4 3 0 - a s m t 3 - w t p  
- 
